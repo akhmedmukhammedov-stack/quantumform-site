@@ -1,0 +1,293 @@
+{
+  "meta": {
+    "siteName": "Quantum Form",
+    "tagline": "Turnkey renovation and construction in Tashkent",
+    "defaultDescription": "Premium turnkey renovation and construction in Tashkent. Apartments, cottages, offices, dachas. Fixed estimates, deadline guarantee, 3D plan before work begins."
+  },
+  "nav": {
+    "services": "Services",
+    "process": "Process",
+    "projects": "Projects",
+    "blog": "Journal",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "cta": {
+    "freeMeasurement": "Free site visit",
+    "orderMeasurement": "Book a free site visit",
+    "viewProcess": "How we work",
+    "viewProjects": "All projects",
+    "viewServices": "All services",
+    "ready": "Ready to begin?"
+  },
+  "common": {
+    "soon": "Soon",
+    "loading": "Loading…",
+    "readMore": "Read more",
+    "minutesRead": "{minutes} min read",
+    "area": "{value} m²"
+  },
+  "home": {
+    "hero": {
+      "headline": "Precise deadlines. Honest estimates. Guaranteed delivery.",
+      "subheadline": "Turnkey renovation and construction in Tashkent. Apartments, cottages, offices, dachas.",
+      "scrollHint": "Scroll"
+    },
+    "pillars": {
+      "eyebrow": "Why Quantum Form",
+      "title": "Three promises we put in writing",
+      "deadline": {
+        "number": "01",
+        "label": "Deadline",
+        "headline": "Late delivery? We pay you for every day.",
+        "body": "The deadline lives in the contract. Each day of our delay is compensated in your favour."
+      },
+      "price": {
+        "number": "02",
+        "label": "Price",
+        "headline": "Estimate signed — price locked.",
+        "body": "Once the estimate is approved, we don't ask for more money mid-project."
+      },
+      "plan": {
+        "number": "03",
+        "label": "Plan",
+        "headline": "3D plan before the first swing of the hammer.",
+        "body": "Visualisation and materials spec first. Construction follows."
+      }
+    },
+    "services": {
+      "eyebrow": "What we do",
+      "title": "Four turnkey formats",
+      "apartment": { "title": "Apartment", "description": "New build or resale. From demolition to furnishing." },
+      "cottage": { "title": "Cottage", "description": "Country house. Full cycle, from engineering to interior." },
+      "office": { "title": "Office", "description": "Commercial spaces with a focus on function." },
+      "dacha": { "title": "Dacha", "description": "Seasonal or year-round country property." }
+    },
+    "projects": { "eyebrow": "Recent work", "title": "Latest projects" },
+    "process": {
+      "eyebrow": "How we work",
+      "title": "From site visit to handover — five steps",
+      "steps": {
+        "measure": { "label": "Site visit", "body": "Free. On-site, 1–2 hours." },
+        "design": { "label": "Design", "body": "Layout and 3D visualisation." },
+        "estimate": { "label": "Estimate", "body": "Fixed price and full specification." },
+        "build": { "label": "Construction", "body": "One foreman, photo report every 5–7 days." },
+        "handover": { "label": "Handover", "body": "Acceptance and warranty period." }
+      }
+    },
+    "numbers": {
+      "years": { "value": "3+", "label": "years in Tashkent" },
+      "projects": { "value": "Turnkey", "label": "from demolition to furnishing" },
+      "area": { "value": "Warranty", "label": "in the contract" }
+    },
+    "testimonials": { "eyebrow": "Testimonials", "title": "What clients say" },
+    "blog": { "eyebrow": "Journal", "title": "Latest articles" },
+    "finalCta": {
+      "title": "Ready to begin?",
+      "body": "Book a free site visit — we'll come, assess scope, and discuss timing."
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Services",
+      "title": "Four turnkey formats",
+      "body": "One contractor from demolition to furnishing. Fixed estimate, signed-off 3D design, deadline guarantee. Apartment, cottage, office or dacha."
+    },
+    "included": {
+      "title": "What's included",
+      "items": [
+        "Demolition and debris removal",
+        "Electrical and low-voltage",
+        "Plumbing and heating",
+        "Screed, plaster, levelling",
+        "Finish trades",
+        "Design + 3D visualisation",
+        "Materials spec and procurement",
+        "Furnishing and appliance fit-out"
+      ]
+    },
+    "tiers": {
+      "title": "Segments",
+      "subtitle": "Price is locked once the on-site visit and estimate are agreed. Below are the differences in approach.",
+      "mid": {
+        "label": "Mid segment",
+        "items": [
+          "Stock tile and sanitary collections",
+          "Standard kitchen fronts and cabinets",
+          "Factory furniture",
+          "Concealed wiring on standard schemes"
+        ]
+      },
+      "premium": {
+        "label": "Premium / Luxury",
+        "items": [
+          "Imported materials and fixtures",
+          "Bespoke kitchen and joinery",
+          "Custom lighting design",
+          "Hidden doors, engineered parquet, multi-level ceilings"
+        ]
+      }
+    },
+    "priceNote": "Price upon site visit",
+    "timelineLabel": "Typical timeline",
+    "examplesLabel": "Similar projects",
+    "apartment": {
+      "title": "Apartment",
+      "lede": "New build or resale, 50–300 m². From bare walls to fully furnished interior.",
+      "timeline": "Apartment 80 m² — 8–12 weeks"
+    },
+    "cottage": {
+      "title": "Cottage",
+      "lede": "Country house, 150–600 m². Engineering, insulation, façade, interior.",
+      "timeline": "Cottage 250 m² — 5–8 months"
+    },
+    "office": {
+      "title": "Office",
+      "lede": "Commercial spaces from 100 m². Zoning, cable runs, meeting rooms, kitchen area.",
+      "timeline": "Office 200 m² — 10–14 weeks"
+    },
+    "dacha": {
+      "title": "Dacha",
+      "lede": "Seasonal or year-round country property. Insulation, engineering, finish.",
+      "timeline": "Dacha 120 m² — 8–12 weeks"
+    }
+  },
+  "process": {
+    "hero": {
+      "eyebrow": "How we work",
+      "title": "Five steps — from first call to handover",
+      "body": "Each phase is documented, agreed and recorded in the contract. No \"we'll figure it out as we go.\""
+    },
+    "steps": {
+      "measure": {
+        "label": "Site visit and brief",
+        "duration": "1–2 hours · free",
+        "title": "On-site, we listen and measure",
+        "body": "A free visit by our engineer and designer. We take dimensions, discuss your way of life, budget and timing. We leave with a written brief."
+      },
+      "design": {
+        "label": "Design and 3D",
+        "duration": "2–4 weeks",
+        "title": "We show the finished space before work begins",
+        "body": "Layout, elevations, 3D visualisation of every room, materials and appliances selection. Every detail signed off with you."
+      },
+      "estimate": {
+        "label": "Estimate and contract",
+        "duration": "3–5 days",
+        "title": "Price and deadline fixed in the contract",
+        "body": "Itemised specification of works, materials and quantities. Contract signed with a fixed estimate and compensation for our delays."
+      },
+      "build": {
+        "label": "Construction",
+        "duration": "8 weeks to 8 months",
+        "title": "One foreman, photo report every 5–7 days",
+        "body": "Clear phase schedule, dedicated crew, quality control at each key node. Photo report and foreman's notes — once a week."
+      },
+      "handover": {
+        "label": "Handover and warranty",
+        "duration": "1 week",
+        "title": "You accept the project — and move in",
+        "body": "Final cleaning, sign-off, operating instructions. Warranty on concealed works and materials."
+      }
+    },
+    "pillars": { "title": "Three promises — in the contract, not in promises" }
+  },
+  "about": {
+    "hero": { "eyebrow": "About", "title": "Calm, predictable renovation" },
+    "manifesto": "Quantum Form is a team that has been delivering turnkey renovation and construction in Tashkent since 2023. We grew out of a simple observation: in this market, clients are used to renovations slipping, prices creeping, and plans mutating from wall to wall. We decided to build a company that works differently — with a signed deadline, a fixed estimate, and a 3D plan before the first swing of the hammer.",
+    "values": {
+      "title": "Principles",
+      "items": {
+        "quality": { "label": "Quality", "body": "We control every key node. From screed and wiring to grout joints and hardware install." },
+        "deadline": { "label": "Deadline", "body": "The deadline is signed, and we pay for it. Each day of our delay is compensated in the client's favour." },
+        "transparency": { "label": "Transparency", "body": "Photo report once a week, one single point of contact, itemised specification for every position." }
+      }
+    },
+    "craftLabel": "The team at work",
+    "ctaLabel": "Let's talk about your project"
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Book a free site visit",
+      "body": "We come to the site, discuss the brief, give a first read on timing and budget. Free, no obligation."
+    },
+    "form": {
+      "title": "Request form",
+      "fields": {
+        "name": "Name",
+        "phone": "Phone",
+        "objectType": "Property type",
+        "area": "Area, m²",
+        "date": "Preferred visit date",
+        "channel": "Preferred channel",
+        "comment": "Note"
+      },
+      "objectOptions": {
+        "apartment": "Apartment",
+        "cottage": "Cottage",
+        "office": "Office",
+        "dacha": "Dacha",
+        "other": "Other"
+      },
+      "channelOptions": { "whatsapp": "WhatsApp", "telegram": "Telegram", "call": "Call" },
+      "submit": "Send request",
+      "submitting": "Sending…",
+      "successTitle": "Request received",
+      "successBody": "We'll be in touch within 24 hours to agree a visit time.",
+      "errorTitle": "Could not send",
+      "errorBody": "Try again or reach us on Telegram / WhatsApp."
+    },
+    "direct": {
+      "title": "Direct contact",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
+      "addressLabel": "Office",
+      "hoursLabel": "Hours",
+      "quickAction": "Message on {channel}"
+    }
+  },
+  "blog": {
+    "indexTitle": "Quantum Form Journal",
+    "indexBody": "Notes on renovation, materials and process. No fluff — only what helps before construction starts.",
+    "categories": { "all": "All", "materials": "Materials", "design": "Design", "process": "Process", "cases": "Case studies" },
+    "filterByCategory": "Category",
+    "authorLabel": "Author",
+    "authorTeam": "Quantum Form team",
+    "publishedLabel": "Published",
+    "relatedTitle": "Related articles"
+  },
+  "projects": {
+    "indexEyebrow": "Portfolio",
+    "indexTitle": "Quantum Form projects",
+    "indexBody": "Completed and current sites in Tashkent.",
+    "filterLabel": "Category",
+    "all": "All",
+    "meta": {
+      "area": "Area",
+      "duration": "Duration",
+      "type": "Type",
+      "location": "Location",
+      "segment": "Segment",
+      "completed": "Completed",
+      "ongoing": "In progress"
+    },
+    "materialsTitle": "Materials",
+    "galleryTitle": "Gallery",
+    "relatedTitle": "Related projects"
+  },
+  "footer": {
+    "tagline": "Turnkey renovation and construction in Tashkent",
+    "rights": "All rights reserved",
+    "contacts": "Contact",
+    "navigation": "Navigation",
+    "follow": "Social"
+  },
+  "language": {
+    "switcher": "Language",
+    "ru": "Русский",
+    "en": "English",
+    "uz": "Oʻzbekcha",
+    "tr": "Türkçe"
+  }
+}

@@ -1,0 +1,40 @@
+/* Quantum Form brand tint for the dark admin theme only.
+   The light theme keeps Payload's default greys for readability. */
+
+[data-theme="dark"] {
+  --color-success: #2e7d32;
+  --color-error: #c95b1f;
+  --color-warning: #e36f2a;
+
+  --theme-elevation-0: #0a0a0a;
+  --theme-elevation-50: #131313;
+  --theme-elevation-100: #171717;
+  --theme-elevation-150: #1c1c1c;
+  --theme-elevation-200: #1f1f1f;
+  --theme-elevation-250: #232323;
+  --theme-elevation-300: #2a2a2a;
+  --theme-elevation-400: #3a3a3a;
+  --theme-elevation-500: #525252;
+  --theme-elevation-600: #737373;
+  --theme-elevation-700: #a3a3a3;
+  --theme-elevation-800: #d4d4d4;
+  --theme-elevation-900: #fafafa;
+  --theme-elevation-950: #ffffff;
+
+  --color-base-0: #0a0a0a;
+  --color-base-1000: #fafafa;
+}
+
+/* Slight orange accent on focused inputs / primary buttons in both themes. */
+.btn--style-primary,
+.btn--style-primary:hover,
+.btn--style-primary:active {
+  background-color: #e36f2a;
+  border-color: #e36f2a;
+  color: #ffffff;
+}
+
+.btn--style-primary:hover {
+  background-color: #c95b1f;
+  border-color: #c95b1f;
+}

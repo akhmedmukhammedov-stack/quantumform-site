@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "siteName": "Quantum Form",
+    "tagline": "Toshkentda kalit topshiriqli taʼmir va qurilish",
+    "defaultDescription": "Toshkentda premium kalit topshiriqli taʼmir va qurilish. Kvartiralar, kottejlar, ofislar, dachalar. Aniq smeta, muddat kafolati, ish boshlanishidan oldin 3D loyiha."
+  },
+  "nav": {
+    "services": "Xizmatlar",
+    "process": "Jarayon",
+    "projects": "Loyihalar",
+    "blog": "Blog",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa"
+  },
+  "cta": {
+    "freeMeasurement": "Bepul oʻlchov",
+    "orderMeasurement": "Bepul oʻlchovga buyurtma berish",
+    "viewProcess": "Jarayon haqida batafsil",
+    "viewProjects": "Barcha loyihalar",
+    "viewServices": "Barcha xizmatlar",
+    "ready": "Boshlashga tayyormisiz?"
+  },
+  "common": {
+    "soon": "Tez orada",
+    "loading": "Yuklanmoqda…",
+    "readMore": "Davomini oʻqing",
+    "minutesRead": "{minutes} daqiqa oʻqish",
+    "area": "{value} m²"
+  },
+  "home": {
+    "hero": {
+      "headline": "Aniq muddat. Halol smeta. Natija kafolati.",
+      "subheadline": "Toshkentda kalit topshiriqli taʼmir va qurilish. Kvartiralar, kottejlar, ofislar, dachalar.",
+      "scrollHint": "Pastga aylantiring"
+    },
+    "pillars": {
+      "eyebrow": "Nega Quantum Form",
+      "title": "Shartnomada saqlaydigan uchta vaʼda",
+      "deadline": {
+        "number": "01",
+        "label": "Muddat",
+        "headline": "Kechiktirsak — har kuni uchun toʻlaymiz.",
+        "body": "Muddat shartnomada yozilgan. Bizning aybimiz bilan har bir kechikkan kun foydangizga qoplanadi."
+      },
+      "price": {
+        "number": "02",
+        "label": "Narx",
+        "headline": "Smeta imzolandi — narx qatʼiy.",
+        "body": "Smeta tasdiqlangach, qoʻshimcha pul soʻramaymiz. Ish jarayonida hech qanday «toʻsatdan» yoʻq."
+      },
+      "plan": {
+        "number": "03",
+        "label": "Reja",
+        "headline": "Birinchi bolg‘a zarbasidan oldin 3D loyiha.",
+        "body": "Avval vizualizatsiya va materiallar spetsifikatsiyasi. Faqat keyin — qurilish."
+      }
+    },
+    "services": {
+      "eyebrow": "Biz nima qilamiz",
+      "title": "Toʻrtta kalit topshiriqli format",
+      "apartment": {
+        "title": "Kvartira",
+        "description": "Yangi bino yoki ikkilamchi. Buzishdan mebellashga qadar."
+      },
+      "cottage": {
+        "title": "Kottej",
+        "description": "Shahar tashqarisidagi uy. Muhandislikdan interyergacha toʻliq sikl."
+      },
+      "office": {
+        "title": "Ofis",
+        "description": "Funksionallikka eʼtibor qaratilgan tijoriy binolar."
+      },
+      "dacha": {
+        "title": "Dacha",
+        "description": "Mavsumiy yoki yil davomida shahar tashqarisidagi obyekt."
+      }
+    },
+    "projects": {
+      "eyebrow": "Yangi ishlar",
+      "title": "Soʻnggi obyektlar"
+    },
+    "process": {
+      "eyebrow": "Qanday ishlaymiz",
+      "title": "Oʻlchovdan topshirishgacha — besh qadam",
+      "steps": {
+        "measure": { "label": "Oʻlchov", "body": "Bepul. Obyektga chiqish, 1–2 soat." },
+        "design": { "label": "Loyiha", "body": "Reja va 3D vizualizatsiya." },
+        "estimate": { "label": "Smeta", "body": "Qatʼiy narx va spetsifikatsiya." },
+        "build": { "label": "Taʼmir", "body": "Bitta prorab, har 5–7 kunda foto hisobot." },
+        "handover": { "label": "Topshirish", "body": "Ishlarni qabul qilish va kafolat." }
+      }
+    },
+    "numbers": {
+      "years": { "value": "3+", "label": "yil Toshkentda" },
+      "projects": { "value": "Kalit topshiriqli", "label": "buzishdan mebellashgacha" },
+      "area": { "value": "Kafolat", "label": "shartnomada" }
+    },
+    "testimonials": {
+      "eyebrow": "Sharhlar",
+      "title": "Mijozlar nima deydi"
+    },
+    "blog": {
+      "eyebrow": "Jurnal",
+      "title": "Yangi maqolalar"
+    },
+    "finalCta": {
+      "title": "Boshlashga tayyormisiz?",
+      "body": "Bepul oʻlchovga buyurtma bering — kelamiz, hajmni baholaymiz, muddatlarni muhokama qilamiz."
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Xizmatlar",
+      "title": "Toʻrtta kalit topshiriqli format",
+      "body": "Buzishdan mebellashgacha bitta podryadchi. Qatʼiy smeta, kelishilgan 3D loyiha, muddat kafolati. Har qanday format — kvartira, kottej, ofis yoki dacha."
+    },
+    "included": {
+      "title": "Nimalar kiradi",
+      "items": [
+        "Buzish va axlat olib chiqish",
+        "Elektrika va kuchsiz toklar",
+        "Suv-kanalizatsiya va isitish",
+        "Styazhka, suvash, tekislash",
+        "Toza qoplama",
+        "Dizayn loyiha va 3D vizualizatsiya",
+        "Spetsifikatsiya va material xaridi",
+        "Mebellash va texnika oʻrnatish"
+      ]
+    },
+    "tiers": {
+      "title": "Segmentlar",
+      "subtitle": "Narxlar oʻlchov va smeta kelishuvidan keyin qatʼiylanadi. Bu yerda — yondashuvdagi farqlar.",
+      "mid": {
+        "label": "Oʻrta segment",
+        "items": [
+          "Seriya plitka va santexnika kolleksiyalari",
+          "Standart oshxona fasadlari va shkaflari",
+          "Zavod mebeli",
+          "Tipik sxemalar boʻyicha yashirin oʻtkazma"
+        ]
+      },
+      "premium": {
+        "label": "Premium / Lyuks",
+        "items": [
+          "Import materiallar va santexnika",
+          "Individual loyiha boʻyicha oshxona va shkaflar",
+          "Yorug‘lik boʻyicha mualliflik yechimlari",
+          "Yashirin eshiklar, muhandislik parket, koʻp darajali shiftlar"
+        ]
+      }
+    },
+    "priceNote": "Narx oʻlchovdan keyin soʻrov boʻyicha",
+    "timelineLabel": "Tipik muddat",
+    "examplesLabel": "Oʻxshash loyihalar",
+    "apartment": {
+      "title": "Kvartira",
+      "lede": "Yangi bino yoki ikkilamchi. 50 dan 300 m² gacha maydon. Yalang devordan toʻliq jihozlangacha.",
+      "timeline": "80 m² kvartira — 8–12 hafta"
+    },
+    "cottage": {
+      "title": "Kottej",
+      "lede": "150–600 m² shahar tashqarisidagi uy. Muhandislik ulanishi, issiqlik izolyatsiyasi, fasad, interyer.",
+      "timeline": "250 m² kottej — 5–8 oy"
+    },
+    "office": {
+      "title": "Ofis",
+      "lede": "100 m² dan tijoriy binolar. Zonalashtirish, kabel yoʻllari, muzokara xonalari, oshxona zonasi.",
+      "timeline": "200 m² ofis — 10–14 hafta"
+    },
+    "dacha": {
+      "title": "Dacha",
+      "lede": "Mavsumiy yoki yil davomida obyekt. Izolyatsiyani kuchaytirish, muhandislikni yangilash, qoplama.",
+      "timeline": "120 m² dacha — 8–12 hafta"
+    }
+  },
+  "process": {
+    "hero": {
+      "eyebrow": "Qanday ishlaymiz",
+      "title": "Besh qadam — birinchi qoʻngʻiroqdan topshirishgacha",
+      "body": "Har bir bosqich hujjatlashtirilgan, kelishilgan va shartnomada qayd etilgan. «Yoʻl-yoʻlakay hal qilamiz» yoʻq."
+    },
+    "steps": {
+      "measure": {
+        "label": "Oʻlchov va brif",
+        "duration": "1–2 soat · bepul",
+        "title": "Obyektga kelamiz, tinglaymiz, oʻlchaymiz",
+        "body": "Muhandis va dizaynerning bepul tashrifi. Oʻlchov olamiz, hayot tarzini, byudjetni, muddatlarni muhokama qilamiz. Texnik topshiriq bilan ketamiz."
+      },
+      "design": {
+        "label": "Loyiha va 3D vizualizatsiya",
+        "duration": "2–4 hafta",
+        "title": "Ish boshlanishidan oldin kelajakdagi xonani koʻrsatamiz",
+        "body": "Reja yechimlari, koʻrinishlar, har bir xonaning 3D vizualizatsiyasi, material va texnika tanlash. Har bir tafsilotni siz bilan tasdiqlaymiz."
+      },
+      "estimate": {
+        "label": "Smeta va shartnoma",
+        "duration": "3–5 kun",
+        "title": "Shartnomada narx va muddatni qatʼiylaymiz",
+        "body": "Pozitsiyalar, hajm, materiallar boʻyicha spetsifikatsiya. Qatʼiy smeta va kechikish uchun kompensatsiya bilan shartnoma imzolaymiz."
+      },
+      "build": {
+        "label": "Taʼmir",
+        "duration": "8 hafta — 8 oy",
+        "title": "Bitta prorab, har 5–7 kunda foto hisobot",
+        "body": "Aniq bosqichlar jadvali, ajratilgan brigada, har bir asosiy nuqtada sifat nazorati. Haftada bir foto hisobot va prorab izohlari."
+      },
+      "handover": {
+        "label": "Topshirish va kafolat",
+        "duration": "1 hafta",
+        "title": "Obyektni qabul qilasiz — va foydalanasiz",
+        "body": "Yakuniy tozalash, qabul-topshirish hujjati, foydalanish koʻrsatmalari. Yashirin ishlar va materiallarga kafolat muddati."
+      }
+    },
+    "pillars": {
+      "title": "Uchta vaʼda — shartnomada, vaʼdalarda emas"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Kompaniya haqida",
+      "title": "Tinch, oldindan aytib boʻladigan taʼmir"
+    },
+    "manifesto": "Quantum Form — 2023 yildan beri Toshkentda kalit topshiriqli taʼmir va qurilish bilan shugʻullanadigan jamoa. Oddiy kuzatuvdan oʻsib chiqdik: bu bozorda mijozlar taʼmirning kechikishiga, narxning yoʻl-yoʻlakay oshishiga va rejaning devordan devorga oʻzgarishiga oʻrganib qolishgan. Biz boshqacha ishlaydigan kompaniya qurishga qaror qildik — imzolangan muddat, qatʼiy smeta va birinchi bolg‘a zarbasidan oldin 3D loyiha bilan.",
+    "values": {
+      "title": "Prinsiplar",
+      "items": {
+        "quality": {
+          "label": "Sifat",
+          "body": "Har bir asosiy nuqtani nazorat qilamiz. Styazhka va simdan — choklarni siljishi va furnitura oʻrnatishigacha."
+        },
+        "deadline": {
+          "label": "Muddatlar",
+          "body": "Muddat imzolangan, va biz uning uchun toʻlaymiz. Bizning aybimiz bilan kechikishning har bir kuni mijozga qoplanadi."
+        },
+        "transparency": {
+          "label": "Shaffoflik",
+          "body": "Haftada bir foto hisobot, yagona aloqa nuqtasi, har bir pozitsiya boʻyicha spetsifikatsiya."
+        }
+      }
+    },
+    "craftLabel": "Jamoa ish boshida",
+    "ctaLabel": "Obyektingizni muhokama qilaylik"
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Aloqa",
+      "title": "Bepul oʻlchovga buyurtma bering",
+      "body": "Obyektga kelamiz, vazifalarni muhokama qilamiz, muddat va smeta haqida birinchi tushuncha beramiz. Bepul, hech qanday majburiyatsiz."
+    },
+    "form": {
+      "title": "Buyurtma formasi",
+      "fields": {
+        "name": "Ism",
+        "phone": "Telefon",
+        "objectType": "Obyekt turi",
+        "area": "Maydon, m²",
+        "date": "Oʻlchov uchun mos sana",
+        "channel": "Qulay aloqa kanali",
+        "comment": "Izoh"
+      },
+      "objectOptions": {
+        "apartment": "Kvartira",
+        "cottage": "Kottej",
+        "office": "Ofis",
+        "dacha": "Dacha",
+        "other": "Boshqa"
+      },
+      "channelOptions": {
+        "whatsapp": "WhatsApp",
+        "telegram": "Telegram",
+        "call": "Qoʻngʻiroq"
+      },
+      "submit": "Buyurtmani yuborish",
+      "submitting": "Yuborilmoqda…",
+      "successTitle": "Buyurtma qabul qilindi",
+      "successBody": "24 soat ichida bog‘lanamiz va qulay tashrif vaqtini kelishamiz.",
+      "errorTitle": "Yuborib boʻlmadi",
+      "errorBody": "Qayta urinib koʻring yoki Telegram / WhatsApp orqali yozing."
+    },
+    "direct": {
+      "title": "Toʻgʻridan-toʻgʻri aloqa",
+      "phoneLabel": "Telefon",
+      "emailLabel": "Email",
+      "addressLabel": "Ofis",
+      "hoursLabel": "Ish soatlari",
+      "quickAction": "{channel} orqali yozish"
+    }
+  },
+  "blog": {
+    "indexTitle": "Quantum Form jurnali",
+    "indexBody": "Taʼmir, materiallar va jarayon haqida eslatmalar. Quruq gap yoʻq — faqat qurilishdan oldin kerak boʻladigan narsalar.",
+    "categories": {
+      "all": "Hammasi",
+      "materials": "Materiallar",
+      "design": "Dizayn",
+      "process": "Jarayon",
+      "cases": "Keyslar"
+    },
+    "filterByCategory": "Kategoriya",
+    "authorLabel": "Muallif",
+    "authorTeam": "Quantum Form jamoasi",
+    "publishedLabel": "Eʼlon qilindi",
+    "relatedTitle": "Oʻxshash maqolalar"
+  },
+  "projects": {
+    "indexEyebrow": "Portfolio",
+    "indexTitle": "Quantum Form loyihalari",
+    "indexBody": "Toshkentda amalga oshirilgan va davom etayotgan obyektlar.",
+    "filterLabel": "Kategoriya",
+    "all": "Hammasi",
+    "meta": {
+      "area": "Maydon",
+      "duration": "Davomiyligi",
+      "type": "Turi",
+      "location": "Joylashuvi",
+      "segment": "Segment",
+      "completed": "Topshirildi",
+      "ongoing": "Ishda"
+    },
+    "materialsTitle": "Materiallar",
+    "galleryTitle": "Galereya",
+    "relatedTitle": "Oʻxshash loyihalar"
+  },
+  "footer": {
+    "tagline": "Toshkentda kalit topshiriqli taʼmir va qurilish",
+    "rights": "Barcha huquqlar himoyalangan",
+    "contacts": "Aloqa",
+    "navigation": "Navigatsiya",
+    "follow": "Ijtimoiy tarmoqlar"
+  },
+  "language": {
+    "switcher": "Til",
+    "ru": "Русский",
+    "en": "English",
+    "uz": "Oʻzbekcha",
+    "tr": "Türkçe"
+  }
+}

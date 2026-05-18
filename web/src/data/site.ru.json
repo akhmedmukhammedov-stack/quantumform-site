@@ -1,0 +1,14 @@
+{
+  "name": "Quantum Form",
+  "domain": "quantumform.uz",
+  "url": "http://localhost:3000",
+  "phone": "+998 94 109 06 36",
+  "email": "akhmedmukhammedov@gmail.com",
+  "address": "Tashkent, Uzbekistan",
+  "hours": "Пн–Сб 9:00–19:00",
+  "social": {
+    "instagram": "https://instagram.com/quantum.form",
+    "telegram": "https://t.me/quantumform",
+    "whatsapp": "https://wa.me/998000000000"
+  }
+}

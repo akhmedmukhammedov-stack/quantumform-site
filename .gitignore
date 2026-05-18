@@ -1,0 +1,46 @@
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Node — never commit
+node_modules/
+
+# Next.js build
+.next/
+out/
+
+# Env files — secrets must not be in git
+.env
+.env.local
+.env.*.local
+
+# Payload local DB
+payload.db
+payload.db-journal
+
+# Generated types
+src/payload/payload-types.ts
+
+# Raw source media (huge HEIC/MOV originals — not needed in git)
+media-raw/
+media-processed/
+
+# Production videos — too big for git (~512MB). Hosted on Cloudinary in prod.
+# Locally they live in web/public/media/videos/ (auto-generated from media-raw/).
+web/public/media/videos/
+
+# Processed media is in web/public/media/ which IS committed (acts as CDN source)
+
+# Logs
+*.log
+.pnpm-debug.log*
+
+# Vercel
+.vercel/
+
+# Build artifacts
+*.tsbuildinfo
+next-env.d.ts
